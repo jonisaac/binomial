@@ -1,6 +1,6 @@
 # binomial
 
-The goal of binomial is to easily gain insight on binomially distributed tasks by visual and anylitic tools.
+The goal of binomial is to easily gain insight on binomially distributed tasks by visual and analytic tools.
 
 ## Installation
 
